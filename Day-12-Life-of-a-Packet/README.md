@@ -39,3 +39,16 @@ Add PDU screenshots to a `screenshots/` directory. A Packet Tracer file with the
 
 ## Skills demonstrated
 Packet Tracer Simulation Mode, Ethernet framing, MAC address changes across routers, IPv4 TTL, ICMP Echo Requests, and interpretation of PDU headers.
+
+## Packet capture screenshots
+
+Once the screenshot package is uploaded into `screenshots/`, the captures will render below:
+
+### R1 inbound — TTL 128
+![R1 inbound ICMP](screenshots/01-r1-inbound-icmp.png)
+
+### R1 outbound — TTL 127
+![R1 outbound ICMP](screenshots/02-r1-outbound-icmp.png)
+
+### R2 outbound — TTL 126
+![R2 outbound ICMP](screenshots/03-r2-outbound-icmp.png)
