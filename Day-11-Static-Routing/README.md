@@ -45,3 +45,19 @@ Upload `static-routing.pkt` to this folder to make the completed lab downloadabl
 
 ## Skills demonstrated
 Cisco IOS CLI, IPv4 addressing, static route configuration, next-hop selection, routing-table verification, ICMP testing, and fault isolation.
+
+## Screenshots
+
+Screenshots are organized under `screenshots/` and should be uploaded from the companion screenshot package. Once uploaded, these links will render:
+
+![Two-office topology](screenshots/01-topology.png)
+
+![R1 static routing table](screenshots/04-r1-static-route.png)
+
+![R2 static routing table](screenshots/05-r2-static-route.png)
+
+![Successful PC1 ping](screenshots/06-pc1-successful-ping.png)
+
+![Missing-route diagnosis](screenshots/08-missing-route-diagnosis.png)
+
+![Restored traceroute and ping](screenshots/10-restored-traceroute-and-ping.png)
